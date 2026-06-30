@@ -1,3 +1,4 @@
+# 测试VSCode Git提交
 """ 组装所有组件 """
 from memory.vector_memory import ManageMemory
 from tools.search_memory import SearchMemoryTool
